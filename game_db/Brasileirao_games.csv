@@ -199,7 +199,7 @@ Wk,Day,Date,Time,Home,Home_xG,Score,Away_xG,Away,Attendance,Venue,Referee,Match 
 20.0,Mon,2023-08-21,20:00,Goiás,1.0,1–1,1.0,Ath Paranaense,8325.0,Estádio de Hailé Pinheiro,Marcelo de Lima Henrique,Match Report,,/en/matches/e64a0d10/Goias-Athletico-Paranaense-August-21-2023-Serie-A,e64a0d10,2023,1,1
 21.0,Sat,2023-08-26,18:30,Flamengo,0.7,0–0,0.3,Internacional,,Estadio Jornalista Mário Filho,Edina Alves Batista,Match Report,,/en/matches/1c27bd22/Flamengo-Internacional-August-26-2023-Serie-A,1c27bd22,2023,0,0
 21.0,Sun,2023-08-27,11:00,Bragantino,1.5,2–0,0.5,Cuiabá,3683.0,Estádio Nabi Abi Chedid,Bruno Mota Correia,Match Report,,/en/matches/13ccd7c0/Bragantino-Cuiaba-August-27-2023-Serie-A,13ccd7c0,2023,2,0
-21.0,Sun,2023-08-27,16:00,Atlético Mineiro,1.6,2–0,0.7,Santos,,Estádio Governador Magalhães Pinto,Rafael Rodrigo Klein,Match Report,,/en/matches/7962f437/Atletico-Mineiro-Santos-August-27-2023-Serie-A,7962f437,2023,2,0
+21.0,Sun,2023-08-27,16:00,Atlético Mineiro,1.6,2–0,0.7,Santos,,Arena MRV,Rafael Rodrigo Klein,Match Report,,/en/matches/7962f437/Atletico-Mineiro-Santos-August-27-2023-Serie-A,7962f437,2023,2,0
 21.0,Sun,2023-08-27,16:00,Botafogo (RJ),2.3,3–0,1.2,Bahia,,Estádio Nilton Santos,Flavio Rodrigues de Souza,Match Report,,/en/matches/7eaa50d0/Botafogo-RJ-Bahia-August-27-2023-Serie-A,7eaa50d0,2023,3,0
 21.0,Sun,2023-08-27,16:00,América (MG),1.3,2–1,1.4,São Paulo,,Estádio Raimundo Sampaio,Rodrigo José Pereira de Lima,Match Report,,/en/matches/c21fc03d/America-MG-Sao-Paulo-August-27-2023-Serie-A,c21fc03d,2023,2,1
 21.0,Sun,2023-08-27,18:30,Palmeiras,0.7,1–0,0.1,Vasco da Gama,40292.0,Allianz Parque,Wilton Sampaio,Match Report,,/en/matches/3638bc52/Palmeiras-Vasco-da-Gama-August-27-2023-Serie-A,3638bc52,2023,1,0
@@ -225,7 +225,7 @@ Wk,Day,Date,Time,Home,Home_xG,Score,Away_xG,Away,Attendance,Venue,Referee,Match 
 23.0,Thu,2023-09-14,21:30,Bragantino,1.3,2–0,1.3,Grêmio,5088.0,Estádio Nabi Abi Chedid,André Luiz Skettino Policarpo Bento,Match Report,,/en/matches/8dbc5f2b/Bragantino-Gremio-September-14-2023-Serie-A,8dbc5f2b,2023,2,0
 23.0,Sat,2023-09-16,16:00,Vasco da Gama,1.4,4–2,1.9,Fluminense,,Estádio Club de Regatas Vasco da Gama,Raphael Claus,Match Report,,/en/matches/5e6cede6/Vasco-da-Gama-Fluminense-September-16-2023-Serie-A,5e6cede6,2023,4,2
 23.0,Fri,2023-09-15,21:30,Palmeiras,1.0,1–0,0.4,Goiás,,Allianz Parque,Savio Pereira,Match Report,,/en/matches/42c7113e/Palmeiras-Goias-September-15-2023-Serie-A,42c7113e,2023,1,0
-23.0,Sat,2023-09-16,21:00,Atlético Mineiro,1.3,1–0,0.1,Botafogo (RJ),,Estádio Governador Magalhães Pinto,Ramon Abatti Abel,Match Report,,/en/matches/e5c8ee0a/Atletico-Mineiro-Botafogo-RJ-September-16-2023-Serie-A,e5c8ee0a,2023,1,0
+23.0,Sat,2023-09-16,21:00,Atlético Mineiro,1.3,1–0,0.1,Botafogo (RJ),,Arena MRV,Ramon Abatti Abel,Match Report,,/en/matches/e5c8ee0a/Atletico-Mineiro-Botafogo-RJ-September-16-2023-Serie-A,e5c8ee0a,2023,1,0
 24.0,Mon,2023-09-18,20:00,Bahia,0.9,1–2,2.6,Santos,,Itaipava Arena Fonte Nova,Ramon Abatti Abel,Match Report,,/en/matches/ca5104b1/Bahia-Santos-September-18-2023-Serie-A,ca5104b1,2023,1,2
 15.0,Mon,2023-09-18,21:00,Corinthians,1.8,4–4,1.1,Grêmio,35796.0,Neo Química Arena,Wilton Sampaio,Match Report,,/en/matches/0d4d5269/Corinthians-Gremio-September-18-2023-Serie-A,0d4d5269,2023,4,4
 24.0,Wed,2023-09-20,19:00,Goiás,0.1,0–0,0.5,Flamengo,,Estádio de Hailé Pinheiro,Raphael Claus,Match Report,,/en/matches/bf814596/Goias-Flamengo-September-20-2023-Serie-A,bf814596,2023,0,0
@@ -236,109 +236,109 @@ Wk,Day,Date,Time,Home,Home_xG,Score,Away_xG,Away,Attendance,Venue,Referee,Match 
 24.0,Wed,2023-09-20,21:30,São Paulo,1.6,1–2,1.1,Fortaleza,24777.0,Estádio do Morumbi,Yuri Elino Ferreira da Cruz,Match Report,,/en/matches/ee062c44/Sao-Paulo-Fortaleza-September-20-2023-Serie-A,ee062c44,2023,1,2
 24.0,Fri,2023-09-22,20:00,Corinthians,1.1,1–0,0.5,Botafogo (RJ),,Neo Química Arena,Paulo Zanovelli,Match Report,,/en/matches/c6f1cdd7/Corinthians-Botafogo-RJ-September-22-2023-Serie-A,c6f1cdd7,2023,1,0
 24.0,Thu,2023-09-21,21:30,Grêmio,0.4,1–0,1.0,Palmeiras,,Arena do Grêmio,Bruno Arleu,Match Report,,/en/matches/6971389d/Gremio-Palmeiras-September-21-2023-Serie-A,6971389d,2023,1,0
-24.0,Sat,2023-09-23,21:00,Atlético Mineiro,0.6,1–0,0.4,Cuiabá,,Estádio Governador Magalhães Pinto,Rodrigo José Pereira de Lima,Match Report,,/en/matches/cbfcb770/Atletico-Mineiro-Cuiaba-September-23-2023-Serie-A,cbfcb770,2023,1,0
+24.0,Sat,2023-09-23,21:00,Atlético Mineiro,0.6,1–0,0.4,Cuiabá,,Arena MRV,Rodrigo José Pereira de Lima,Match Report,,/en/matches/cbfcb770/Atletico-Mineiro-Cuiaba-September-23-2023-Serie-A,cbfcb770,2023,1,0
 15.0,Mon,2023-09-25,20:00,América (MG),1.6,0–1,0.8,Vasco da Gama,,Estádio Raimundo Sampaio,Ramon Abatti Abel,Match Report,,/en/matches/62bfb3a6/America-MG-Vasco-da-Gama-September-25-2023-Serie-A,62bfb3a6,2023,0,1
-22.0,Wed,2023-09-27,19:00,São Paulo,1.4,2–1,0.8,Coritiba,,Estádio do Morumbi,Savio Pereira,Match Report,,/en/matches/7beb6a45/Sao-Paulo-Coritiba-September-27-2023-Serie-A,7beb6a45,2023,2,1
-25.0,Sat,2023-09-30,16:00,Fortaleza,,,,Grêmio,,Estádio Castelão,,Head-to-Head,,/en/stathead/matchup/teams/d5ae3703/a9d0ab0e/Gremio-vs-Fortaleza-History,matchup,2023,,
-25.0,Sat,2023-09-30,16:00,Flamengo,,,,Bahia,,Estadio Jornalista Mário Filho,,Head-to-Head,,/en/stathead/matchup/teams/639950ae/157b7fee/Flamengo-vs-Bahia-History,matchup,2023,,
-25.0,Sat,2023-09-30,17:30,Cuiabá,,,,Fluminense,,Arena Pantanal,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/84d9701c/Cuiaba-vs-Fluminense-History,matchup,2023,,
-25.0,Sat,2023-09-30,18:30,São Paulo,,,,Corinthians,,Estádio do Morumbi,,Head-to-Head,,/en/stathead/matchup/teams/bf4acd28/5f232eb1/Classico-Majestoso-Corinthians-vs-Sao-Paulo-History,matchup,2023,,
-25.0,Sun,2023-10-01,16:00,Coritiba,,,,Ath Paranaense,,Estádio Major Antônio Couto Pereira,,Head-to-Head,,/en/stathead/matchup/teams/d680d257/2091c619/Coritiba-vs-Athletico-Paranaense-History,matchup,2023,,
-25.0,Sun,2023-10-01,16:00,Santos,,,,Vasco da Gama,,Estádio Urbano Caldeira,,Head-to-Head,,/en/stathead/matchup/teams/83f55dbe/712c528f/Vasco-da-Gama-vs-Santos-History,matchup,2023,,
-25.0,Sun,2023-10-01,16:00,Cruzeiro,,,,América (MG),,Estádio Raimundo Sampaio,,Head-to-Head,,/en/stathead/matchup/teams/1f68d780/03ff5eeb/America-MG-vs-Cruzeiro-History,matchup,2023,,
-25.0,Sun,2023-10-01,18:30,Bragantino,,,,Palmeiras,,Estádio Nabi Abi Chedid,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/abdce579/Red-Bull-Bragantino-vs-Palmeiras-History,matchup,2023,,
-25.0,Sat,2023-09-30,21:00,Internacional,,,,Atlético Mineiro,,Estádio José Pinheiro Borba,,Head-to-Head,,/en/stathead/matchup/teams/6f7e1f03/422bb734/Internacional-vs-Atletico-Mineiro-History,matchup,2023,,
-25.0,Mon,2023-10-02,20:00,Botafogo (RJ),,,,Goiás,,Estádio Nilton Santos,,Head-to-Head,,/en/stathead/matchup/teams/d9fdd9d9/78c617cc/Botafogo-RJ-vs-Goias-History,matchup,2023,,
-26.0,Sat,2023-10-07,16:00,Goiás,,,,Bahia,,Estádio de Hailé Pinheiro,,Head-to-Head,,/en/stathead/matchup/teams/78c617cc/157b7fee/Goias-vs-Bahia-History,matchup,2023,,
-26.0,Sat,2023-10-07,18:30,Vasco da Gama,,,,São Paulo,,Estádio Club de Regatas Vasco da Gama,,Head-to-Head,,/en/stathead/matchup/teams/83f55dbe/5f232eb1/Vasco-da-Gama-vs-Sao-Paulo-History,matchup,2023,,
-26.0,Sun,2023-10-08,16:00,Fluminense,,,,Botafogo (RJ),,Estadio Jornalista Mário Filho,,Head-to-Head,,/en/stathead/matchup/teams/d9fdd9d9/84d9701c/Botafogo-RJ-vs-Fluminense-History,matchup,2023,,
-26.0,Sun,2023-10-08,16:00,Palmeiras,,,,Santos,,Allianz Parque,,Head-to-Head,,/en/stathead/matchup/teams/abdce579/712c528f/Palmeiras-vs-Santos-History,matchup,2023,,
-26.0,Sun,2023-10-08,16:00,Internacional,,,,Grêmio,,Estádio José Pinheiro Borba,,Head-to-Head,,/en/stathead/matchup/teams/d5ae3703/6f7e1f03/Gremio-vs-Internacional-History,matchup,2023,,
-26.0,Sun,2023-10-08,18:30,Ath Paranaense,,,,Bragantino,,Estádio Joaquim Américo Guimarães,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/2091c619/Red-Bull-Bragantino-vs-Athletico-Paranaense-History,matchup,2023,,
-26.0,Sun,2023-10-08,18:30,Fortaleza,,,,América (MG),,Estádio Castelão,,Head-to-Head,,/en/stathead/matchup/teams/a9d0ab0e/1f68d780/Fortaleza-vs-America-MG-History,matchup,2023,,
-26.0,Sun,2023-10-08,18:30,Atlético Mineiro,,,,Coritiba,,,,Head-to-Head,,/en/stathead/matchup/teams/d680d257/422bb734/Coritiba-vs-Atletico-Mineiro-History,matchup,2023,,
-26.0,Sat,2023-10-07,21:00,Corinthians,,,,Flamengo,,Neo Química Arena,,Head-to-Head,,/en/stathead/matchup/teams/bf4acd28/639950ae/Corinthians-vs-Flamengo-History,matchup,2023,,
-26.0,Sat,2023-10-14,20:00,Cuiabá,,,,Cruzeiro,,Arena Pantanal,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/03ff5eeb/Cuiaba-vs-Cruzeiro-History,matchup,2023,,
-27.0,Wed,2023-10-18,19:00,América (MG),,,,Botafogo (RJ),,Estádio Raimundo Sampaio,,Head-to-Head,,/en/stathead/matchup/teams/d9fdd9d9/1f68d780/Botafogo-RJ-vs-America-MG-History,matchup,2023,,
-27.0,Wed,2023-10-18,19:00,Grêmio,,,,Ath Paranaense,,,,Head-to-Head,,/en/stathead/matchup/teams/d5ae3703/2091c619/Gremio-vs-Athletico-Paranaense-History,matchup,2023,,
-27.0,Wed,2023-10-18,19:00,Vasco da Gama,,,,Fortaleza,,Estádio Club de Regatas Vasco da Gama,,Head-to-Head,,/en/stathead/matchup/teams/a9d0ab0e/83f55dbe/Fortaleza-vs-Vasco-da-Gama-History,matchup,2023,,
-27.0,Wed,2023-10-18,20:00,Coritiba,,,,Cuiabá,,Estádio Major Antônio Couto Pereira,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/d680d257/Cuiaba-vs-Coritiba-History,matchup,2023,,
-27.0,Wed,2023-10-18,20:00,Goiás,,,,São Paulo,,Estádio de Hailé Pinheiro,,Head-to-Head,,/en/stathead/matchup/teams/78c617cc/5f232eb1/Goias-vs-Sao-Paulo-History,matchup,2023,,
-27.0,Thu,2023-10-19,19:00,Cruzeiro,,,,Flamengo,,Estádio Raimundo Sampaio,,Head-to-Head,,/en/stathead/matchup/teams/639950ae/03ff5eeb/Flamengo-vs-Cruzeiro-History,matchup,2023,,
-27.0,Thu,2023-10-19,19:00,Palmeiras,,,,Atlético Mineiro,,Allianz Parque,,Head-to-Head,,/en/stathead/matchup/teams/abdce579/422bb734/Palmeiras-vs-Atletico-Mineiro-History,matchup,2023,,
-27.0,Thu,2023-10-19,20:00,Santos,,,,Bragantino,,Estádio Urbano Caldeira,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/712c528f/Red-Bull-Bragantino-vs-Santos-History,matchup,2023,,
-27.0,Wed,2023-10-18,21:30,Fluminense,,,,Corinthians,,Estadio Jornalista Mário Filho,,Head-to-Head,,/en/stathead/matchup/teams/bf4acd28/84d9701c/Corinthians-vs-Fluminense-History,matchup,2023,,
-27.0,Wed,2023-10-18,21:30,Bahia,,,,Internacional,,Itaipava Arena Fonte Nova,,Head-to-Head,,/en/stathead/matchup/teams/6f7e1f03/157b7fee/Internacional-vs-Bahia-History,matchup,2023,,
-28.0,Sat,2023-10-21,17:30,Cuiabá,,,,Goiás,,Arena Pantanal,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/78c617cc/Cuiaba-vs-Goias-History,matchup,2023,,
-28.0,Sat,2023-10-21,18:30,Corinthians,,,,América (MG),,Neo Química Arena,,Head-to-Head,,/en/stathead/matchup/teams/bf4acd28/1f68d780/Corinthians-vs-America-MG-History,matchup,2023,,
-28.0,Sat,2023-10-21,18:30,Bahia,,,,Fortaleza,,Itaipava Arena Fonte Nova,,Head-to-Head,,/en/stathead/matchup/teams/a9d0ab0e/157b7fee/Fortaleza-vs-Bahia-History,matchup,2023,,
-28.0,Sun,2023-10-22,16:00,Atlético Mineiro,,,,Cruzeiro,,,,Head-to-Head,,/en/stathead/matchup/teams/422bb734/03ff5eeb/Atletico-Mineiro-vs-Cruzeiro-History,matchup,2023,,
-28.0,Sun,2023-10-22,16:00,Internacional,,,,Santos,,Estádio José Pinheiro Borba,,Head-to-Head,,/en/stathead/matchup/teams/712c528f/6f7e1f03/Santos-vs-Internacional-History,matchup,2023,,
-28.0,Sun,2023-10-22,16:00,Flamengo,,,,Vasco da Gama,,Estadio Jornalista Mário Filho,,Head-to-Head,,/en/stathead/matchup/teams/83f55dbe/639950ae/Classico-dos-Milhoes-Vasco-da-Gama-vs-Flamengo-History,matchup,2023,,
-28.0,Sun,2023-10-22,18:30,São Paulo,,,,Grêmio,,Estádio do Morumbi,,Head-to-Head,,/en/stathead/matchup/teams/d5ae3703/5f232eb1/Gremio-vs-Sao-Paulo-History,matchup,2023,,
-28.0,Sun,2023-10-22,18:30,Coritiba,,,,Palmeiras,,Estádio Major Antônio Couto Pereira,,Head-to-Head,,/en/stathead/matchup/teams/d680d257/abdce579/Coritiba-vs-Palmeiras-History,matchup,2023,,
-28.0,Sun,2023-10-22,18:30,Bragantino,,,,Fluminense,,Estádio Nabi Abi Chedid,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/84d9701c/Red-Bull-Bragantino-vs-Fluminense-History,matchup,2023,,
-28.0,Sat,2023-10-21,21:00,Botafogo (RJ),,,,Ath Paranaense,,Estádio Nilton Santos,,Head-to-Head,,/en/stathead/matchup/teams/d9fdd9d9/2091c619/Botafogo-RJ-vs-Athletico-Paranaense-History,matchup,2023,,
-29.0,Wed,2023-10-25,19:00,Ath Paranaense,,,,América (MG),,Estádio Joaquim Américo Guimarães,,Head-to-Head,,/en/stathead/matchup/teams/2091c619/1f68d780/Athletico-Paranaense-vs-America-MG-History,matchup,2023,,
-29.0,Wed,2023-10-25,19:00,Vasco da Gama,,,,Internacional,,Estádio Club de Regatas Vasco da Gama,,Head-to-Head,,/en/stathead/matchup/teams/83f55dbe/6f7e1f03/Vasco-da-Gama-vs-Internacional-History,matchup,2023,,
-29.0,Wed,2023-10-25,20:00,Cruzeiro,,,,Bahia,,Estádio Raimundo Sampaio,,Head-to-Head,,/en/stathead/matchup/teams/157b7fee/03ff5eeb/Bahia-vs-Cruzeiro-History,matchup,2023,,
-29.0,Wed,2023-10-25,20:00,Santos,,,,Coritiba,,Estádio Urbano Caldeira,,Head-to-Head,,/en/stathead/matchup/teams/d680d257/712c528f/Coritiba-vs-Santos-History,matchup,2023,,
-29.0,Tue,2023-10-24,20:30,Cuiabá,,,,Corinthians,,Arena Pantanal,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/bf4acd28/Cuiaba-vs-Corinthians-History,matchup,2023,,
-29.0,Tue,2023-10-24,21:30,Fortaleza,,,,Botafogo (RJ),,Estádio Castelão,,Head-to-Head,,/en/stathead/matchup/teams/d9fdd9d9/a9d0ab0e/Botafogo-RJ-vs-Fortaleza-History,matchup,2023,,
-29.0,Thu,2023-10-26,19:00,Bragantino,,,,Atlético Mineiro,,Estádio Nabi Abi Chedid,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/422bb734/Red-Bull-Bragantino-vs-Atletico-Mineiro-History,matchup,2023,,
-29.0,Thu,2023-10-26,20:00,Fluminense,,,,Goiás,,Estadio Jornalista Mário Filho,,Head-to-Head,,/en/stathead/matchup/teams/84d9701c/78c617cc/Fluminense-vs-Goias-History,matchup,2023,,
-29.0,Wed,2023-10-25,21:30,Grêmio,,,,Flamengo,,,,Head-to-Head,,/en/stathead/matchup/teams/d5ae3703/639950ae/Gremio-vs-Flamengo-History,matchup,2023,,
-29.0,Wed,2023-10-25,21:30,Palmeiras,,,,São Paulo,,Allianz Parque,,Head-to-Head,,/en/stathead/matchup/teams/abdce579/5f232eb1/Palmeiras-vs-Sao-Paulo-History,matchup,2023,,
-30.0,Sat,2023-10-28,,Ath Paranaense,,,,São Paulo,,Estádio Joaquim Américo Guimarães,,Head-to-Head,,/en/stathead/matchup/teams/5f232eb1/2091c619/Sao-Paulo-vs-Athletico-Paranaense-History,matchup,2023,,
-30.0,Sat,2023-10-28,,Botafogo (RJ),,,,Cuiabá,,Estádio Nilton Santos,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/d9fdd9d9/Cuiaba-vs-Botafogo-RJ-History,matchup,2023,,
-30.0,Sat,2023-10-28,,Atlético Mineiro,,,,Fluminense,,,,Head-to-Head,,/en/stathead/matchup/teams/84d9701c/422bb734/Fluminense-vs-Atletico-Mineiro-History,matchup,2023,,
-30.0,Sat,2023-10-28,,Corinthians,,,,Santos,,Neo Química Arena,,Head-to-Head,,/en/stathead/matchup/teams/bf4acd28/712c528f/Corinthians-vs-Santos-History,matchup,2023,,
-30.0,Sat,2023-10-28,,Flamengo,,,,Bragantino,,Estadio Jornalista Mário Filho,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/639950ae/Red-Bull-Bragantino-vs-Flamengo-History,matchup,2023,,
-30.0,Sat,2023-10-28,,Internacional,,,,Coritiba,,Estádio José Pinheiro Borba,,Head-to-Head,,/en/stathead/matchup/teams/d680d257/6f7e1f03/Coritiba-vs-Internacional-History,matchup,2023,,
-30.0,Sat,2023-10-28,,Goiás,,,,Vasco da Gama,,Estádio de Hailé Pinheiro,,Head-to-Head,,/en/stathead/matchup/teams/83f55dbe/78c617cc/Vasco-da-Gama-vs-Goias-History,matchup,2023,,
-30.0,Sat,2023-10-28,,América (MG),,,,Grêmio,,Estádio Raimundo Sampaio,,Head-to-Head,,/en/stathead/matchup/teams/d5ae3703/1f68d780/Gremio-vs-America-MG-History,matchup,2023,,
-30.0,Sat,2023-10-28,,Palmeiras,,,,Bahia,,Allianz Parque,,Head-to-Head,,/en/stathead/matchup/teams/abdce579/157b7fee/Palmeiras-vs-Bahia-History,matchup,2023,,
-30.0,Sat,2023-10-28,,Fortaleza,,,,Cruzeiro,,Estádio Castelão,,Head-to-Head,,/en/stathead/matchup/teams/a9d0ab0e/03ff5eeb/Fortaleza-vs-Cruzeiro-History,matchup,2023,,
-31.0,Wed,2023-11-01,,Coritiba,,,,Grêmio,,Estádio Major Antônio Couto Pereira,,Head-to-Head,,/en/stathead/matchup/teams/d680d257/d5ae3703/Coritiba-vs-Gremio-History,matchup,2023,,
-31.0,Wed,2023-11-01,,Bahia,,,,Fluminense,,Itaipava Arena Fonte Nova,,Head-to-Head,,/en/stathead/matchup/teams/84d9701c/157b7fee/Fluminense-vs-Bahia-History,matchup,2023,,
-31.0,Wed,2023-11-01,,São Paulo,,,,Cruzeiro,,Estádio do Morumbi,,Head-to-Head,,/en/stathead/matchup/teams/5f232eb1/03ff5eeb/Sao-Paulo-vs-Cruzeiro-History,matchup,2023,,
-31.0,Wed,2023-11-01,,Corinthians,,,,Ath Paranaense,,Neo Química Arena,,Head-to-Head,,/en/stathead/matchup/teams/bf4acd28/2091c619/Corinthians-vs-Athletico-Paranaense-History,matchup,2023,,
-31.0,Wed,2023-11-01,,Goiás,,,,Bragantino,,Estádio de Hailé Pinheiro,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/78c617cc/Red-Bull-Bragantino-vs-Goias-History,matchup,2023,,
-31.0,Wed,2023-11-01,,Atlético Mineiro,,,,Fortaleza,,,,Head-to-Head,,/en/stathead/matchup/teams/a9d0ab0e/422bb734/Fortaleza-vs-Atletico-Mineiro-History,matchup,2023,,
-31.0,Wed,2023-11-01,,Internacional,,,,América (MG),,Estádio José Pinheiro Borba,,Head-to-Head,,/en/stathead/matchup/teams/6f7e1f03/1f68d780/Internacional-vs-America-MG-History,matchup,2023,,
-31.0,Wed,2023-11-01,,Cuiabá,,,,Vasco da Gama,,Arena Pantanal,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/83f55dbe/Cuiaba-vs-Vasco-da-Gama-History,matchup,2023,,
-31.0,Wed,2023-11-01,,Botafogo (RJ),,,,Palmeiras,,Estádio Nilton Santos,,Head-to-Head,,/en/stathead/matchup/teams/d9fdd9d9/abdce579/Botafogo-RJ-vs-Palmeiras-History,matchup,2023,,
-31.0,Wed,2023-11-01,,Flamengo,,,,Santos,,Estadio Jornalista Mário Filho,,Head-to-Head,,/en/stathead/matchup/teams/712c528f/639950ae/Santos-vs-Flamengo-History,matchup,2023,,
-32.0,Sat,2023-11-04,,Palmeiras,,,,Ath Paranaense,,Allianz Parque,,Head-to-Head,,/en/stathead/matchup/teams/abdce579/2091c619/Palmeiras-vs-Athletico-Paranaense-History,matchup,2023,,
-32.0,Sat,2023-11-04,,Cruzeiro,,,,Internacional,,Estádio Raimundo Sampaio,,Head-to-Head,,/en/stathead/matchup/teams/6f7e1f03/03ff5eeb/Internacional-vs-Cruzeiro-History,matchup,2023,,
-32.0,Sat,2023-11-04,,Vasco da Gama,,,,Botafogo (RJ),,Estádio Club de Regatas Vasco da Gama,,Head-to-Head,,/en/stathead/matchup/teams/d9fdd9d9/83f55dbe/Botafogo-RJ-vs-Vasco-da-Gama-History,matchup,2023,,
-32.0,Sat,2023-11-04,,Grêmio,,,,Bahia,,,,Head-to-Head,,/en/stathead/matchup/teams/d5ae3703/157b7fee/Gremio-vs-Bahia-History,matchup,2023,,
-32.0,Sat,2023-11-04,,América (MG),,,,Atlético Mineiro,,Estádio Raimundo Sampaio,,Head-to-Head,,/en/stathead/matchup/teams/422bb734/1f68d780/Atletico-Mineiro-vs-America-MG-History,matchup,2023,,
-32.0,Sat,2023-11-04,,Coritiba,,,,Goiás,,Estádio Major Antônio Couto Pereira,,Head-to-Head,,/en/stathead/matchup/teams/d680d257/78c617cc/Coritiba-vs-Goias-History,matchup,2023,,
-32.0,Sat,2023-11-04,,Fortaleza,,,,Flamengo,,Estádio Castelão,,Head-to-Head,,/en/stathead/matchup/teams/a9d0ab0e/639950ae/Fortaleza-vs-Flamengo-History,matchup,2023,,
-32.0,Sat,2023-11-04,,Bragantino,,,,Corinthians,,Estádio Nabi Abi Chedid,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/bf4acd28/Red-Bull-Bragantino-vs-Corinthians-History,matchup,2023,,
-32.0,Sat,2023-11-04,,Santos,,,,Cuiabá,,Estádio Urbano Caldeira,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/712c528f/Cuiaba-vs-Santos-History,matchup,2023,,
-32.0,Sat,2023-11-04,,Fluminense,,,,São Paulo,,Estadio Jornalista Mário Filho,,Head-to-Head,,/en/stathead/matchup/teams/84d9701c/5f232eb1/Fluminense-vs-Sao-Paulo-History,matchup,2023,,
-33.0,Wed,2023-11-08,,Corinthians,,,,Atlético Mineiro,,Neo Química Arena,,Head-to-Head,,/en/stathead/matchup/teams/bf4acd28/422bb734/Corinthians-vs-Atletico-Mineiro-History,matchup,2023,,
-33.0,Wed,2023-11-08,,São Paulo,,,,Bragantino,,Estádio do Morumbi,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/5f232eb1/Red-Bull-Bragantino-vs-Sao-Paulo-History,matchup,2023,,
-33.0,Wed,2023-11-08,,Goiás,,,,Santos,,Estádio de Hailé Pinheiro,,Head-to-Head,,/en/stathead/matchup/teams/78c617cc/712c528f/Goias-vs-Santos-History,matchup,2023,,
-33.0,Wed,2023-11-08,,Ath Paranaense,,,,Fortaleza,,Estádio Joaquim Américo Guimarães,,Head-to-Head,,/en/stathead/matchup/teams/a9d0ab0e/2091c619/Fortaleza-vs-Athletico-Paranaense-History,matchup,2023,,
-33.0,Wed,2023-11-08,,América (MG),,,,Coritiba,,Estádio Raimundo Sampaio,,Head-to-Head,,/en/stathead/matchup/teams/d680d257/1f68d780/Coritiba-vs-America-MG-History,matchup,2023,,
-33.0,Wed,2023-11-08,,Botafogo (RJ),,,,Grêmio,,Estádio Nilton Santos,,Head-to-Head,,/en/stathead/matchup/teams/d9fdd9d9/d5ae3703/Botafogo-RJ-vs-Gremio-History,matchup,2023,,
-33.0,Wed,2023-11-08,,Bahia,,,,Cuiabá,,Itaipava Arena Fonte Nova,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/157b7fee/Cuiaba-vs-Bahia-History,matchup,2023,,
-33.0,Wed,2023-11-08,,Cruzeiro,,,,Vasco da Gama,,Estádio Raimundo Sampaio,,Head-to-Head,,/en/stathead/matchup/teams/83f55dbe/03ff5eeb/Vasco-da-Gama-vs-Cruzeiro-History,matchup,2023,,
-33.0,Wed,2023-11-08,,Flamengo,,,,Palmeiras,,Estadio Jornalista Mário Filho,,Head-to-Head,,/en/stathead/matchup/teams/abdce579/639950ae/Palmeiras-vs-Flamengo-History,matchup,2023,,
-33.0,Wed,2023-11-08,,Internacional,,,,Fluminense,,Estádio José Pinheiro Borba,,Head-to-Head,,/en/stathead/matchup/teams/84d9701c/6f7e1f03/Fluminense-vs-Internacional-History,matchup,2023,,
-34.0,Sat,2023-11-11,,Palmeiras,,,,Internacional,,Allianz Parque,,Head-to-Head,,/en/stathead/matchup/teams/abdce579/6f7e1f03/Palmeiras-vs-Internacional-History,matchup,2023,,
-34.0,Sat,2023-11-11,,Santos,,,,São Paulo,,Estádio Urbano Caldeira,,Head-to-Head,,/en/stathead/matchup/teams/712c528f/5f232eb1/Santos-vs-Sao-Paulo-History,matchup,2023,,
-34.0,Sat,2023-11-11,,Bragantino,,,,Botafogo (RJ),,Estádio Nabi Abi Chedid,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/d9fdd9d9/Red-Bull-Bragantino-vs-Botafogo-RJ-History,matchup,2023,,
-34.0,Sat,2023-11-11,,Flamengo,,,,Fluminense,,Estadio Jornalista Mário Filho,,Head-to-Head,,/en/stathead/matchup/teams/84d9701c/639950ae/Fluminense-vs-Flamengo-History,matchup,2023,,
-34.0,Sat,2023-11-11,,Cuiabá,,,,Fortaleza,,Arena Pantanal,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/a9d0ab0e/Cuiaba-vs-Fortaleza-History,matchup,2023,,
-34.0,Sat,2023-11-11,,Coritiba,,,,Cruzeiro,,Estádio Major Antônio Couto Pereira,,Head-to-Head,,/en/stathead/matchup/teams/d680d257/03ff5eeb/Coritiba-vs-Cruzeiro-History,matchup,2023,,
-34.0,Sat,2023-11-11,,Vasco da Gama,,,,América (MG),,Estádio Club de Regatas Vasco da Gama,,Head-to-Head,,/en/stathead/matchup/teams/83f55dbe/1f68d780/Vasco-da-Gama-vs-America-MG-History,matchup,2023,,
-34.0,Sat,2023-11-11,,Bahia,,,,Ath Paranaense,,Itaipava Arena Fonte Nova,,Head-to-Head,,/en/stathead/matchup/teams/2091c619/157b7fee/Athletico-Paranaense-vs-Bahia-History,matchup,2023,,
-34.0,Sat,2023-11-11,,Atlético Mineiro,,,,Goiás,,,,Head-to-Head,,/en/stathead/matchup/teams/78c617cc/422bb734/Goias-vs-Atletico-Mineiro-History,matchup,2023,,
-34.0,Sat,2023-11-11,,Grêmio,,,,Corinthians,,,,Head-to-Head,,/en/stathead/matchup/teams/d5ae3703/bf4acd28/Gremio-vs-Corinthians-History,matchup,2023,,
+22.0,Wed,2023-09-27,19:00,São Paulo,1.6,2–1,0.8,Coritiba,,Estádio do Morumbi,Savio Pereira,Match Report,,/en/matches/7beb6a45/Sao-Paulo-Coritiba-September-27-2023-Serie-A,7beb6a45,2023,2,1
+25.0,Sat,2023-09-30,16:00,Fortaleza,1.9,1–1,1.5,Grêmio,23634.0,Estádio Castelão,Raphael Claus,Match Report,,/en/matches/bd790319/Fortaleza-Gremio-September-30-2023-Serie-A,bd790319,2023,1,1
+25.0,Sat,2023-09-30,16:00,Flamengo,1.4,1–0,0.5,Bahia,,Estadio Jornalista Mário Filho,Savio Pereira,Match Report,,/en/matches/d351cf09/Flamengo-Bahia-September-30-2023-Serie-A,d351cf09,2023,1,0
+25.0,Sat,2023-09-30,17:30,Cuiabá,1.2,3–0,0.2,Fluminense,,Arena Pantanal,Paulo Zanovelli,Match Report,,/en/matches/804ad084/Cuiaba-Fluminense-September-30-2023-Serie-A,804ad084,2023,3,0
+25.0,Sat,2023-09-30,18:30,São Paulo,2.3,2–1,0.2,Corinthians,,Estádio do Morumbi,Flavio Rodrigues de Souza,Match Report,,/en/matches/053dbfd6/Classico-Majestoso-Sao-Paulo-Corinthians-September-30-2023-Serie-A,053dbfd6,2023,2,1
+25.0,Sun,2023-10-01,16:00,Coritiba,0.5,2–0,0.9,Ath Paranaense,,Estádio Major Antônio Couto Pereira,Bruno Arleu,Match Report,,/en/matches/0c51a04a/Coritiba-Athletico-Paranaense-October-1-2023-Serie-A,0c51a04a,2023,2,0
+25.0,Sun,2023-10-01,16:00,Santos,2.4,4–1,0.9,Vasco da Gama,,Estádio Urbano Caldeira,Anderson Daronco,Match Report,,/en/matches/576aabf5/Santos-Vasco-da-Gama-October-1-2023-Serie-A,576aabf5,2023,4,1
+25.0,Sun,2023-10-01,16:00,Cruzeiro,0.6,1–1,1.0,América (MG),,Estádio Raimundo Sampaio,Leandro Pedro Vuaden,Match Report,,/en/matches/f496869a/Cruzeiro-America-MG-October-1-2023-Serie-A,f496869a,2023,1,1
+25.0,Sun,2023-10-01,18:30,Bragantino,2.9,2–1,1.5,Palmeiras,,Estádio Nabi Abi Chedid,Wagner do Nascimento Magalhães,Match Report,,/en/matches/833c0672/Bragantino-Palmeiras-October-1-2023-Serie-A,833c0672,2023,2,1
+25.0,Sat,2023-09-30,21:00,Internacional,0.8,0–2,1.4,Atlético Mineiro,,Estádio José Pinheiro Borba,Ramon Abatti Abel,Match Report,,/en/matches/dae78550/Internacional-Atletico-Mineiro-September-30-2023-Serie-A,dae78550,2023,0,2
+25.0,Mon,2023-10-02,20:00,Botafogo (RJ),0.9,1–1,0.5,Goiás,34294.0,Estádio Nilton Santos,Braulio da Silva Machado,Match Report,,/en/matches/644c6f1e/Botafogo-RJ-Goias-October-2-2023-Serie-A,644c6f1e,2023,1,1
+26.0,Sat,2023-10-07,16:00,Goiás,2.7,4–6,2.0,Bahia,9001.0,Estádio de Hailé Pinheiro,Raphael Claus,Match Report,,/en/matches/ae187f18/Goias-Bahia-October-7-2023-Serie-A,ae187f18,2023,4,6
+26.0,Sat,2023-10-07,18:30,Vasco da Gama,0.9,0–0,1.4,São Paulo,,Estádio Club de Regatas Vasco da Gama,Braulio da Silva Machado,Match Report,,/en/matches/bda09f03/Vasco-da-Gama-Sao-Paulo-October-7-2023-Serie-A,bda09f03,2023,0,0
+26.0,Sun,2023-10-08,16:00,Fluminense,1.1,0–2,1.9,Botafogo (RJ),,Estadio Jornalista Mário Filho,Leandro Pedro Vuaden,Match Report,,/en/matches/05363eec/Fluminense-Botafogo-RJ-October-8-2023-Serie-A,05363eec,2023,0,2
+26.0,Sun,2023-10-08,16:00,Palmeiras,2.1,1–2,1.4,Santos,,Allianz Parque,Flavio Rodrigues de Souza,Match Report,,/en/matches/15b167d0/Palmeiras-Santos-October-8-2023-Serie-A,15b167d0,2023,1,2
+26.0,Sun,2023-10-08,16:00,Internacional,2.5,3–2,0.4,Grêmio,,Estádio José Pinheiro Borba,Paulo Zanovelli,Match Report,,/en/matches/8e24262b/Internacional-Gremio-October-8-2023-Serie-A,8e24262b,2023,3,2
+26.0,Sun,2023-10-08,18:30,Ath Paranaense,1.7,1–1,0.6,Bragantino,,Estádio Joaquim Américo Guimarães,Yuri Elino Ferreira da Cruz,Match Report,,/en/matches/00fb185c/Athletico-Paranaense-Bragantino-October-8-2023-Serie-A,00fb185c,2023,1,1
+26.0,Sun,2023-10-08,18:30,Fortaleza,2.2,3–2,1.4,América (MG),,Estádio Castelão,Bruno Arleu,Match Report,,/en/matches/78c71ff3/Fortaleza-America-MG-October-8-2023-Serie-A,78c71ff3,2023,3,2
+26.0,Sun,2023-10-08,18:30,Atlético Mineiro,0.6,1–2,0.8,Coritiba,,Arena MRV,Marcelo de Lima Henrique,Match Report,,/en/matches/eff0b7bb/Atletico-Mineiro-Coritiba-October-8-2023-Serie-A,eff0b7bb,2023,1,2
+26.0,Sat,2023-10-07,21:00,Corinthians,1.0,1–1,0.9,Flamengo,,Neo Química Arena,Anderson Daronco,Match Report,,/en/matches/22af4e3e/Corinthians-Flamengo-October-7-2023-Serie-A,22af4e3e,2023,1,1
+26.0,Sat,2023-10-14,20:00,Cuiabá,0.9,0–0,0.5,Cruzeiro,,Arena Pantanal,Rodrigo José Pereira de Lima,Match Report,,/en/matches/d37e2230/Cuiaba-Cruzeiro-October-14-2023-Serie-A,d37e2230,2023,0,0
+27.0,Wed,2023-10-18,19:00,Grêmio,1.6,1–2,0.9,Ath Paranaense,24679.0,Arena do Grêmio,Luiz Flávio de Oliveira,Match Report,,/en/matches/c77bac6e/Gremio-Athletico-Paranaense-October-18-2023-Serie-A,c77bac6e,2023,1,2
+27.0,Wed,2023-10-18,20:00,Coritiba,1.4,0–3,0.4,Cuiabá,20873.0,Estádio Major Antônio Couto Pereira,Denis da Silva Ribeiro Serafim,Match Report,,/en/matches/0eabbbd5/Coritiba-Cuiaba-October-18-2023-Serie-A,0eabbbd5,2023,0,3
+27.0,Wed,2023-10-18,20:00,América (MG),2.9,1–2,0.5,Botafogo (RJ),6230.0,Estádio Raimundo Sampaio,Anderson Daronco,Match Report,,/en/matches/3923411b/America-MG-Botafogo-RJ-October-18-2023-Serie-A,3923411b,2023,1,2
+27.0,Thu,2023-10-19,19:00,Cruzeiro,0.3,0–2,1.8,Flamengo,37073.0,Estádio Raimundo Sampaio,Rafael Rodrigo Klein,Match Report,,/en/matches/5436d055/Cruzeiro-Flamengo-October-19-2023-Serie-A,5436d055,2023,0,2
+27.0,Thu,2023-10-19,19:00,Palmeiras,0.7,0–2,1.1,Atlético Mineiro,27718.0,Allianz Parque,Bruno Arleu,Match Report,,/en/matches/fee7ed8d/Palmeiras-Atletico-Mineiro-October-19-2023-Serie-A,fee7ed8d,2023,0,2
+27.0,Thu,2023-10-19,20:00,Santos,1.8,1–3,2.4,Bragantino,12850.0,Estádio Urbano Caldeira,Raphael Claus,Match Report,,/en/matches/f13baba4/Santos-Bragantino-October-19-2023-Serie-A,f13baba4,2023,1,3
+27.0,Wed,2023-10-18,21:30,Bahia,2.0,1–0,0.6,Internacional,31385.0,Itaipava Arena Fonte Nova,Marcelo de Lima Henrique,Match Report,,/en/matches/893aead7/Bahia-Internacional-October-18-2023-Serie-A,893aead7,2023,1,0
+27.0,Wed,2023-10-18,21:30,Vasco da Gama,2.0,1–0,0.7,Fortaleza,20255.0,Estádio Club de Regatas Vasco da Gama,Leandro Pedro Vuaden,Match Report,,/en/matches/ef6f4d35/Vasco-da-Gama-Fortaleza-October-18-2023-Serie-A,ef6f4d35,2023,1,0
+27.0,Wed,2023-10-18,21:30,Goiás,0.5,2–0,0.5,São Paulo,12685.0,Estádio de Hailé Pinheiro,Rodrigo José Pereira de Lima,Match Report,,/en/matches/f8acfdb6/Goias-Sao-Paulo-October-18-2023-Serie-A,f8acfdb6,2023,2,0
+27.0,Thu,2023-10-19,21:30,Fluminense,1.9,3–3,2.1,Corinthians,35096.0,Estadio Jornalista Mário Filho,Paulo Zanovelli,Match Report,,/en/matches/592ec54c/Fluminense-Corinthians-October-19-2023-Serie-A,592ec54c,2023,3,3
+28.0,Sat,2023-10-21,17:30,Cuiabá,1.3,1–1,1.8,Goiás,,Arena Pantanal,Anderson Daronco,Match Report,,/en/matches/c3d366a4/Cuiaba-Goias-October-21-2023-Serie-A,c3d366a4,2023,1,1
+28.0,Sat,2023-10-21,18:30,São Paulo,3.2,3–0,0.1,Grêmio,47132.0,Estádio do Morumbi,André Luiz Skettino Policarpo Bento,Match Report,,/en/matches/61422406/Sao-Paulo-Gremio-October-21-2023-Serie-A,61422406,2023,3,0
+28.0,Sat,2023-10-21,18:30,Bahia,1.2,2–0,0.5,Fortaleza,44761.0,Itaipava Arena Fonte Nova,Rodrigo José Pereira de Lima,Match Report,,/en/matches/be062d7b/Bahia-Fortaleza-October-21-2023-Serie-A,be062d7b,2023,2,0
+28.0,Sun,2023-10-22,15:00,Botafogo (RJ),0.9,1–1,1.1,Ath Paranaense,,Estádio Nilton Santos,Matheus Delgado Candançan,Match Report,,/en/matches/214e38a6/Botafogo-RJ-Athletico-Paranaense-October-22-2023-Serie-A,214e38a6,2023,1,1
+28.0,Sun,2023-10-22,16:00,Atlético Mineiro,0.6,0–1,0.9,Cruzeiro,,Arena MRV,Ramon Abatti,Match Report,,/en/matches/1ce3d6c9/Atletico-Mineiro-Cruzeiro-October-22-2023-Serie-A,1ce3d6c9,2023,0,1
+28.0,Sun,2023-10-22,16:00,Internacional,1.6,7–1,1.6,Santos,,Estádio José Pinheiro Borba,Paulo Zanovelli,Match Report,,/en/matches/7d038308/Internacional-Santos-October-22-2023-Serie-A,7d038308,2023,7,1
+28.0,Sun,2023-10-22,16:00,Flamengo,0.5,1–0,1.1,Vasco da Gama,69473.0,Estadio Jornalista Mário Filho,Raphael Claus,Match Report,,/en/matches/c9612aa5/Classico-dos-Milhoes-Flamengo-Vasco-da-Gama-October-22-2023-Serie-A,c9612aa5,2023,1,0
+28.0,Sun,2023-10-22,18:30,Corinthians,1.3,1–1,0.7,América (MG),38121.0,Neo Química Arena,Yuri Elino Ferreira da Cruz,Match Report,,/en/matches/06b0087f/Corinthians-America-MG-October-22-2023-Serie-A,06b0087f,2023,1,1
+28.0,Sun,2023-10-22,18:30,Coritiba,0.6,0–2,1.1,Palmeiras,,Estádio Major Antônio Couto Pereira,Rafael Rodrigo Klein,Match Report,,/en/matches/88fb07de/Coritiba-Palmeiras-October-22-2023-Serie-A,88fb07de,2023,0,2
+28.0,Sun,2023-10-22,18:30,Bragantino,2.2,1–0,0.5,Fluminense,,Estádio Nabi Abi Chedid,Wilton Pereira Sampaio,Match Report,,/en/matches/a94f5e66/Bragantino-Fluminense-October-22-2023-Serie-A,a94f5e66,2023,1,0
+29.0,Tue,2023-10-24,19:00,Fortaleza,,,,Botafogo (RJ),,Estádio Castelão,,,Match Postponed, , ,2023,,
+29.0,Wed,2023-10-25,19:00,Ath Paranaense,3.1,3–2,0.9,América (MG),20672.0,Estádio Joaquim Américo Guimarães,Anderson Daronco,Match Report,,/en/matches/044bc3ec/Athletico-Paranaense-America-MG-October-25-2023-Serie-A,044bc3ec,2023,3,2
+29.0,Wed,2023-10-25,19:00,Bragantino,1.9,1–2,1.4,Atlético Mineiro,5494.0,Estádio Nabi Abi Chedid,Marcelo de Lima Henrique,Match Report,,/en/matches/2e52bb7d/Bragantino-Atletico-Mineiro-October-25-2023-Serie-A,2e52bb7d,2023,1,2
+29.0,Wed,2023-10-25,19:00,Fluminense,2.7,5–3,0.6,Goiás,,Estadio Jornalista Mário Filho,Leandro Pedro Vuaden,Match Report,,/en/matches/7f35e779/Fluminense-Goias-October-25-2023-Serie-A,7f35e779,2023,5,3
+29.0,Wed,2023-10-25,20:00,Cruzeiro,2.0,3–0,0.3,Bahia,,Estádio Raimundo Sampaio,Flavio de Souza,Match Report,,/en/matches/1985c034/Cruzeiro-Bahia-October-25-2023-Serie-A,1985c034,2023,3,0
+29.0,Wed,2023-10-25,20:00,Palmeiras,2.4,5–0,0.1,São Paulo,,Allianz Parque,Raphael Claus,Match Report,,/en/matches/8e9362e0/Palmeiras-Sao-Paulo-October-25-2023-Serie-A,8e9362e0,2023,5,0
+29.0,Thu,2023-10-26,19:00,Vasco da Gama,1.0,1–2,1.6,Internacional,20098.0,Estádio Club de Regatas Vasco da Gama,Luiz Flávio de Oliveira,Match Report,,/en/matches/bf99eca7/Vasco-da-Gama-Internacional-October-26-2023-Serie-A,bf99eca7,2023,1,2
+29.0,Wed,2023-10-25,20:30,Cuiabá,0.6,0–1,1.4,Corinthians,,Arena Pantanal,André Luiz Skettino Policarpo Bento,Match Report,,/en/matches/aaff063e/Cuiaba-Corinthians-October-25-2023-Serie-A,aaff063e,2023,0,1
+29.0,Wed,2023-10-25,21:30,Grêmio,1.0,3–2,1.1,Flamengo,,Arena do Grêmio,Rodrigo José Pereira de Lima,Match Report,,/en/matches/3277e5e5/Gremio-Flamengo-October-25-2023-Serie-A,3277e5e5,2023,3,2
+29.0,Thu,2023-10-26,21:30,Santos,2.2,2–1,0.8,Coritiba,12205.0,Estádio Urbano Caldeira,Wagner Magalhães,Match Report,,/en/matches/7d439ddc/Santos-Coritiba-October-26-2023-Serie-A,7d439ddc,2023,2,1
+30.0,Sat,2023-10-28,,Flamengo,,,,Bragantino,,Estadio Jornalista Mário Filho,,,Match Postponed, , ,2023,,
+30.0,Sat,2023-10-28,,Fortaleza,,,,Cruzeiro,,Estádio Castelão,,,Match Postponed, , ,2023,,
+30.0,Sat,2023-10-28,19:00,América (MG),2.4,3–4,2.1,Grêmio,3008.0,Estádio Raimundo Sampaio,Matheus Delgado Candançan,Match Report,,/en/matches/a51962c1/America-MG-Gremio-October-28-2023-Serie-A,a51962c1,2023,3,4
+30.0,Sat,2023-10-28,19:00,Palmeiras,1.7,1–0,0.2,Bahia,33747.0,Allianz Parque,Rodrigo José Pereira de Lima,Match Report,,/en/matches/afdca9e0/Palmeiras-Bahia-October-28-2023-Serie-A,afdca9e0,2023,1,0
+30.0,Sun,2023-10-29,16:00,Ath Paranaense,1.2,1–1,0.6,São Paulo,,Estádio Joaquim Américo Guimarães,Rafael Rodrigo Klein,Match Report,,/en/matches/183a7664/Athletico-Paranaense-Sao-Paulo-October-29-2023-Serie-A,183a7664,2023,1,1
+30.0,Sun,2023-10-29,16:00,Goiás,1.1,1–1,0.9,Vasco da Gama,12904.0,Estádio de Hailé Pinheiro,Flavio de Souza,Match Report,,/en/matches/725eed20/Goias-Vasco-da-Gama-October-29-2023-Serie-A,725eed20,2023,1,1
+30.0,Sun,2023-10-29,18:30,Corinthians,1.2,1–1,1.3,Santos,,Neo Química Arena,Anderson Daronco,Match Report,,/en/matches/4ad2d187/Corinthians-Santos-October-29-2023-Serie-A,4ad2d187,2023,1,1
+30.0,Sun,2023-10-29,18:30,Internacional,2.6,3–4,2.7,Coritiba,,Estádio José Pinheiro Borba,André Luiz Skettino Policarpo Bento,Match Report,,/en/matches/644ef519/Internacional-Coritiba-October-29-2023-Serie-A,644ef519,2023,3,4
+30.0,Sun,2023-10-29,20:00,Botafogo (RJ),1.9,0–1,1.0,Cuiabá,30659.0,Estádio Nilton Santos,Wilton Pereira Sampaio,Match Report,,/en/matches/263b2f87/Botafogo-RJ-Cuiaba-October-29-2023-Serie-A,263b2f87,2023,0,1
+30.0,Sat,2023-10-28,22:00,Atlético Mineiro,1.2,2–0,1.1,Fluminense,,Estádio Governador Magalhães Pinto,Raphael Claus,Match Report,,/en/matches/34e31c31/Atletico-Mineiro-Fluminense-October-28-2023-Serie-A,34e31c31,2023,2,0
+31.0,Tue,2023-10-31,19:00,Bahia,,,,Fluminense,,Itaipava Arena Fonte Nova,,Head-to-Head,,/en/stathead/matchup/teams/84d9701c/157b7fee/Fluminense-vs-Bahia-History,matchup,2023,,
+31.0,Wed,2023-11-01,19:00,Corinthians,,,,Ath Paranaense,,Neo Química Arena,,Head-to-Head,,/en/stathead/matchup/teams/bf4acd28/2091c619/Corinthians-vs-Athletico-Paranaense-History,matchup,2023,,
+31.0,Wed,2023-11-01,19:00,Internacional,,,,América (MG),,Estádio José Pinheiro Borba,,Head-to-Head,,/en/stathead/matchup/teams/6f7e1f03/1f68d780/Internacional-vs-America-MG-History,matchup,2023,,
+31.0,Wed,2023-11-01,20:00,Coritiba,,,,Grêmio,,Estádio Major Antônio Couto Pereira,,Head-to-Head,,/en/stathead/matchup/teams/d680d257/d5ae3703/Coritiba-vs-Gremio-History,matchup,2023,,
+31.0,Wed,2023-11-01,20:00,Flamengo,,,,Santos,,Estadio Jornalista Mário Filho,,Head-to-Head,,/en/stathead/matchup/teams/712c528f/639950ae/Santos-vs-Flamengo-History,matchup,2023,,
+31.0,Thu,2023-11-02,16:00,Cuiabá,,,,Vasco da Gama,,Arena Pantanal,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/83f55dbe/Cuiaba-vs-Vasco-da-Gama-History,matchup,2023,,
+31.0,Thu,2023-11-02,18:00,Goiás,,,,Bragantino,,Estádio de Hailé Pinheiro,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/78c617cc/Red-Bull-Bragantino-vs-Goias-History,matchup,2023,,
+31.0,Thu,2023-11-02,20:00,São Paulo,,,,Cruzeiro,,Estádio do Morumbi,,Head-to-Head,,/en/stathead/matchup/teams/5f232eb1/03ff5eeb/Sao-Paulo-vs-Cruzeiro-History,matchup,2023,,
+31.0,Wed,2023-11-01,21:30,Atlético Mineiro,,,,Fortaleza,,Estádio Governador Magalhães Pinto,,Head-to-Head,,/en/stathead/matchup/teams/a9d0ab0e/422bb734/Fortaleza-vs-Atletico-Mineiro-History,matchup,2023,,
+31.0,Wed,2023-11-01,21:30,Botafogo (RJ),,,,Palmeiras,,Estádio Nilton Santos,,Head-to-Head,,/en/stathead/matchup/teams/d9fdd9d9/abdce579/Botafogo-RJ-vs-Palmeiras-History,matchup,2023,,
+32.0,Sat,2023-11-04,,Fluminense,,,,São Paulo,,Estadio Jornalista Mário Filho,,,Match Postponed, , ,2023,,
+32.0,Sat,2023-11-04,19:30,Grêmio,,,,Bahia,,Arena do Grêmio,,Head-to-Head,,/en/stathead/matchup/teams/d5ae3703/157b7fee/Gremio-vs-Bahia-History,matchup,2023,,
+32.0,Sat,2023-11-04,19:30,América (MG),,,,Atlético Mineiro,,Estádio Raimundo Sampaio,,Head-to-Head,,/en/stathead/matchup/teams/422bb734/1f68d780/Atletico-Mineiro-vs-America-MG-History,matchup,2023,,
+32.0,Sun,2023-11-05,16:00,Cruzeiro,,,,Internacional,,Estádio Raimundo Sampaio,,Head-to-Head,,/en/stathead/matchup/teams/6f7e1f03/03ff5eeb/Internacional-vs-Cruzeiro-History,matchup,2023,,
+32.0,Sun,2023-11-05,16:00,Vasco da Gama,,,,Botafogo (RJ),,Estádio Club de Regatas Vasco da Gama,,Head-to-Head,,/en/stathead/matchup/teams/d9fdd9d9/83f55dbe/Botafogo-RJ-vs-Vasco-da-Gama-History,matchup,2023,,
+32.0,Sun,2023-11-05,16:00,Bragantino,,,,Corinthians,,Estádio Nabi Abi Chedid,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/bf4acd28/Red-Bull-Bragantino-vs-Corinthians-History,matchup,2023,,
+32.0,Sun,2023-11-05,18:30,Coritiba,,,,Goiás,,Estádio Major Antônio Couto Pereira,,Head-to-Head,,/en/stathead/matchup/teams/d680d257/78c617cc/Coritiba-vs-Goias-History,matchup,2023,,
+32.0,Sun,2023-11-05,18:30,Fortaleza,,,,Flamengo,,Estádio Castelão,,Head-to-Head,,/en/stathead/matchup/teams/a9d0ab0e/639950ae/Fortaleza-vs-Flamengo-History,matchup,2023,,
+32.0,Sat,2023-11-04,21:30,Palmeiras,,,,Ath Paranaense,,Allianz Parque,,Head-to-Head,,/en/stathead/matchup/teams/abdce579/2091c619/Palmeiras-vs-Athletico-Paranaense-History,matchup,2023,,
+32.0,Mon,2023-11-06,20:00,Santos,,,,Cuiabá,,Estádio Urbano Caldeira,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/712c528f/Cuiaba-vs-Santos-History,matchup,2023,,
+33.0,Tue,2023-11-07,20:00,Ath Paranaense,,,,Fortaleza,,Estádio Joaquim Américo Guimarães,,Head-to-Head,,/en/stathead/matchup/teams/a9d0ab0e/2091c619/Fortaleza-vs-Athletico-Paranaense-History,matchup,2023,,
+33.0,Tue,2023-11-07,20:00,Cruzeiro,,,,Vasco da Gama,,Estádio Raimundo Sampaio,,Head-to-Head,,/en/stathead/matchup/teams/83f55dbe/03ff5eeb/Vasco-da-Gama-vs-Cruzeiro-History,matchup,2023,,
+33.0,Wed,2023-11-08,19:00,América (MG),,,,Coritiba,,Estádio Raimundo Sampaio,,Head-to-Head,,/en/stathead/matchup/teams/d680d257/1f68d780/Coritiba-vs-America-MG-History,matchup,2023,,
+33.0,Wed,2023-11-08,19:00,Internacional,,,,Fluminense,,Estádio José Pinheiro Borba,,Head-to-Head,,/en/stathead/matchup/teams/84d9701c/6f7e1f03/Fluminense-vs-Internacional-History,matchup,2023,,
+33.0,Wed,2023-11-08,20:00,São Paulo,,,,Bragantino,,Estádio do Morumbi,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/5f232eb1/Red-Bull-Bragantino-vs-Sao-Paulo-History,matchup,2023,,
+33.0,Thu,2023-11-09,19:00,Corinthians,,,,Atlético Mineiro,,Neo Química Arena,,Head-to-Head,,/en/stathead/matchup/teams/bf4acd28/422bb734/Corinthians-vs-Atletico-Mineiro-History,matchup,2023,,
+33.0,Thu,2023-11-09,19:00,Goiás,,,,Santos,,Estádio de Hailé Pinheiro,,Head-to-Head,,/en/stathead/matchup/teams/78c617cc/712c528f/Goias-vs-Santos-History,matchup,2023,,
+33.0,Thu,2023-11-09,20:00,Botafogo (RJ),,,,Grêmio,,Estádio Nilton Santos,,Head-to-Head,,/en/stathead/matchup/teams/d9fdd9d9/d5ae3703/Botafogo-RJ-vs-Gremio-History,matchup,2023,,
+33.0,Wed,2023-11-08,21:30,Flamengo,,,,Palmeiras,,Estadio Jornalista Mário Filho,,Head-to-Head,,/en/stathead/matchup/teams/abdce579/639950ae/Palmeiras-vs-Flamengo-History,matchup,2023,,
+33.0,Thu,2023-11-09,21:30,Bahia,,,,Cuiabá,,Itaipava Arena Fonte Nova,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/157b7fee/Cuiaba-vs-Bahia-History,matchup,2023,,
+34.0,Sat,2023-11-11,16:00,Coritiba,,,,Cruzeiro,,Estádio Major Antônio Couto Pereira,,Head-to-Head,,/en/stathead/matchup/teams/d680d257/03ff5eeb/Coritiba-vs-Cruzeiro-History,matchup,2023,,
+34.0,Sat,2023-11-11,18:30,Flamengo,,,,Fluminense,,Estadio Jornalista Mário Filho,,Head-to-Head,,/en/stathead/matchup/teams/84d9701c/639950ae/Fluminense-vs-Flamengo-History,matchup,2023,,
+34.0,Sun,2023-11-12,16:00,Bragantino,,,,Botafogo (RJ),,Estádio Nabi Abi Chedid,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/d9fdd9d9/Red-Bull-Bragantino-vs-Botafogo-RJ-History,matchup,2023,,
+34.0,Sun,2023-11-12,16:00,Grêmio,,,,Corinthians,,,,Head-to-Head,,/en/stathead/matchup/teams/d5ae3703/bf4acd28/Gremio-vs-Corinthians-History,matchup,2023,,
+34.0,Sun,2023-11-12,17:30,Cuiabá,,,,Fortaleza,,Arena Pantanal,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/a9d0ab0e/Cuiaba-vs-Fortaleza-History,matchup,2023,,
+34.0,Sun,2023-11-12,18:30,Santos,,,,São Paulo,,Estádio Urbano Caldeira,,Head-to-Head,,/en/stathead/matchup/teams/712c528f/5f232eb1/Santos-vs-Sao-Paulo-History,matchup,2023,,
+34.0,Sun,2023-11-12,18:30,Vasco da Gama,,,,América (MG),,Estádio Club de Regatas Vasco da Gama,,Head-to-Head,,/en/stathead/matchup/teams/83f55dbe/1f68d780/Vasco-da-Gama-vs-America-MG-History,matchup,2023,,
+34.0,Sun,2023-11-12,18:30,Bahia,,,,Ath Paranaense,,Itaipava Arena Fonte Nova,,Head-to-Head,,/en/stathead/matchup/teams/2091c619/157b7fee/Athletico-Paranaense-vs-Bahia-History,matchup,2023,,
+34.0,Sun,2023-11-12,18:30,Atlético Mineiro,,,,Goiás,,,,Head-to-Head,,/en/stathead/matchup/teams/78c617cc/422bb734/Goias-vs-Atletico-Mineiro-History,matchup,2023,,
+34.0,Sat,2023-11-11,21:00,Palmeiras,,,,Internacional,,Allianz Parque,,Head-to-Head,,/en/stathead/matchup/teams/abdce579/6f7e1f03/Palmeiras-vs-Internacional-History,matchup,2023,,
 35.0,Wed,2023-11-22,,Atlético Mineiro,,,,Grêmio,,,,Head-to-Head,,/en/stathead/matchup/teams/d5ae3703/422bb734/Gremio-vs-Atletico-Mineiro-History,matchup,2023,,
 35.0,Wed,2023-11-22,,Internacional,,,,Bragantino,,Estádio José Pinheiro Borba,,Head-to-Head,,/en/stathead/matchup/teams/f98930d1/6f7e1f03/Red-Bull-Bragantino-vs-Internacional-History,matchup,2023,,
 35.0,Wed,2023-11-22,,São Paulo,,,,Cuiabá,,Estádio do Morumbi,,Head-to-Head,,/en/stathead/matchup/teams/f0e6fb14/5f232eb1/Cuiaba-vs-Sao-Paulo-History,matchup,2023,,
